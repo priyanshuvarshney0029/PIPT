@@ -1,1 +1,12 @@
+1  Integer a, b, c
+2  Set a=2, b=6, c=8
+3  a=(10+9)+c
+4  if((c+b)>(a-c))
+5      a=b+c
+6      b=b+b
+7  End if
+8  Print a+b+c
 
+
+// solution will be 41 a=27,b=6,c=8
+if will not be excecuted print will be run
